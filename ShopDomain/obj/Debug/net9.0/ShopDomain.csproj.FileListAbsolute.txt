@@ -1,0 +1,12 @@
+C:\Users\SeikaH\source\repos\ShopDomain\bin\Debug\net9.0\ShopDomain.deps.json
+C:\Users\SeikaH\source\repos\ShopDomain\bin\Debug\net9.0\ShopDomain.dll
+C:\Users\SeikaH\source\repos\ShopDomain\bin\Debug\net9.0\ShopDomain.pdb
+C:\Users\SeikaH\source\repos\ShopDomain\obj\Debug\net9.0\ShopDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SeikaH\source\repos\ShopDomain\obj\Debug\net9.0\ShopDomain.AssemblyInfoInputs.cache
+C:\Users\SeikaH\source\repos\ShopDomain\obj\Debug\net9.0\ShopDomain.AssemblyInfo.cs
+C:\Users\SeikaH\source\repos\ShopDomain\obj\Debug\net9.0\ShopDomain.csproj.CoreCompileInputs.cache
+C:\Users\SeikaH\source\repos\ShopDomain\obj\Debug\net9.0\ShopDomain.dll
+C:\Users\SeikaH\source\repos\ShopDomain\obj\Debug\net9.0\refint\ShopDomain.dll
+C:\Users\SeikaH\source\repos\ShopDomain\obj\Debug\net9.0\ShopDomain.pdb
+C:\Users\SeikaH\source\repos\ShopDomain\obj\Debug\net9.0\ref\ShopDomain.dll
+C:\Users\SeikaH\source\repos\ShopDomain\obj\Debug\net9.0\ShopDomain.csproj.AssemblyReference.cache

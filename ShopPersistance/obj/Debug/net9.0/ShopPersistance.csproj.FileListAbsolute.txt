@@ -1,0 +1,17 @@
+C:\Users\SeikaH\source\repos\ShopPersistance\bin\Debug\net9.0\ShopPersistance.deps.json
+C:\Users\SeikaH\source\repos\ShopPersistance\bin\Debug\net9.0\ShopPersistance.dll
+C:\Users\SeikaH\source\repos\ShopPersistance\bin\Debug\net9.0\ShopPersistance.pdb
+C:\Users\SeikaH\source\repos\ShopPersistance\bin\Debug\net9.0\ShopDomain.dll
+C:\Users\SeikaH\source\repos\ShopPersistance\bin\Debug\net9.0\ShopDomain.pdb
+C:\Users\SeikaH\source\repos\ShopPersistance\obj\Debug\net9.0\ShopPersistance.csproj.AssemblyReference.cache
+C:\Users\SeikaH\source\repos\ShopPersistance\obj\Debug\net9.0\ShopPersistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SeikaH\source\repos\ShopPersistance\obj\Debug\net9.0\ShopPersistance.AssemblyInfoInputs.cache
+C:\Users\SeikaH\source\repos\ShopPersistance\obj\Debug\net9.0\ShopPersistance.AssemblyInfo.cs
+C:\Users\SeikaH\source\repos\ShopPersistance\obj\Debug\net9.0\ShopPersistance.csproj.CoreCompileInputs.cache
+C:\Users\SeikaH\source\repos\ShopPersistance\obj\Debug\net9.0\ShopPers.C5C33465.Up2Date
+C:\Users\SeikaH\source\repos\ShopPersistance\obj\Debug\net9.0\ShopPersistance.dll
+C:\Users\SeikaH\source\repos\ShopPersistance\obj\Debug\net9.0\refint\ShopPersistance.dll
+C:\Users\SeikaH\source\repos\ShopPersistance\obj\Debug\net9.0\ShopPersistance.pdb
+C:\Users\SeikaH\source\repos\ShopPersistance\obj\Debug\net9.0\ref\ShopPersistance.dll
+C:\Users\SeikaH\source\repos\ShopPersistance\bin\Debug\net9.0\ShopPersistance.runtimeconfig.json
+C:\Users\SeikaH\source\repos\ShopPersistance\obj\Debug\net9.0\ShopPersistance.genruntimeconfig.cache

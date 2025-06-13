@@ -1,0 +1,11 @@
+C:\Users\SeikaH\source\repos\ShopInfrastructure\bin\Debug\net9.0\ShopInfrastructure.deps.json
+C:\Users\SeikaH\source\repos\ShopInfrastructure\bin\Debug\net9.0\ShopInfrastructure.dll
+C:\Users\SeikaH\source\repos\ShopInfrastructure\bin\Debug\net9.0\ShopInfrastructure.pdb
+C:\Users\SeikaH\source\repos\ShopInfrastructure\obj\Debug\net9.0\ShopInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SeikaH\source\repos\ShopInfrastructure\obj\Debug\net9.0\ShopInfrastructure.AssemblyInfoInputs.cache
+C:\Users\SeikaH\source\repos\ShopInfrastructure\obj\Debug\net9.0\ShopInfrastructure.AssemblyInfo.cs
+C:\Users\SeikaH\source\repos\ShopInfrastructure\obj\Debug\net9.0\ShopInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\SeikaH\source\repos\ShopInfrastructure\obj\Debug\net9.0\ShopInfrastructure.dll
+C:\Users\SeikaH\source\repos\ShopInfrastructure\obj\Debug\net9.0\refint\ShopInfrastructure.dll
+C:\Users\SeikaH\source\repos\ShopInfrastructure\obj\Debug\net9.0\ShopInfrastructure.pdb
+C:\Users\SeikaH\source\repos\ShopInfrastructure\obj\Debug\net9.0\ref\ShopInfrastructure.dll

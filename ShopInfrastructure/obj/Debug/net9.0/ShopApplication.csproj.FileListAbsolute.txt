@@ -1,0 +1,17 @@
+C:\Users\SeikaH\source\repos\ShopInfrastructure\bin\Debug\net9.0\ShopApplication.deps.json
+C:\Users\SeikaH\source\repos\ShopInfrastructure\bin\Debug\net9.0\ShopApplication.dll
+C:\Users\SeikaH\source\repos\ShopInfrastructure\bin\Debug\net9.0\ShopApplication.pdb
+C:\Users\SeikaH\source\repos\ShopInfrastructure\bin\Debug\net9.0\ShopDomain.dll
+C:\Users\SeikaH\source\repos\ShopInfrastructure\bin\Debug\net9.0\ShopPersistance.dll
+C:\Users\SeikaH\source\repos\ShopInfrastructure\bin\Debug\net9.0\ShopDomain.pdb
+C:\Users\SeikaH\source\repos\ShopInfrastructure\bin\Debug\net9.0\ShopPersistance.pdb
+C:\Users\SeikaH\source\repos\ShopInfrastructure\obj\Debug\net9.0\ShopApplication.csproj.AssemblyReference.cache
+C:\Users\SeikaH\source\repos\ShopInfrastructure\obj\Debug\net9.0\ShopApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SeikaH\source\repos\ShopInfrastructure\obj\Debug\net9.0\ShopApplication.AssemblyInfoInputs.cache
+C:\Users\SeikaH\source\repos\ShopInfrastructure\obj\Debug\net9.0\ShopApplication.AssemblyInfo.cs
+C:\Users\SeikaH\source\repos\ShopInfrastructure\obj\Debug\net9.0\ShopApplication.csproj.CoreCompileInputs.cache
+C:\Users\SeikaH\source\repos\ShopInfrastructure\obj\Debug\net9.0\ShopAppl.B4D96F03.Up2Date
+C:\Users\SeikaH\source\repos\ShopInfrastructure\obj\Debug\net9.0\ShopApplication.dll
+C:\Users\SeikaH\source\repos\ShopInfrastructure\obj\Debug\net9.0\refint\ShopApplication.dll
+C:\Users\SeikaH\source\repos\ShopInfrastructure\obj\Debug\net9.0\ShopApplication.pdb
+C:\Users\SeikaH\source\repos\ShopInfrastructure\obj\Debug\net9.0\ref\ShopApplication.dll
