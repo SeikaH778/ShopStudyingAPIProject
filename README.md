@@ -49,6 +49,9 @@ ShopStudyingAPI   — контроллеры, точка входа
 - Удаление товара из корзины
 - Очистка корзины
 
+**Покупка**
+- Покупка товра по id, вычитание его из общего количества
+  
 ### Запуск проекта
 
 **Требования:**
@@ -138,6 +141,9 @@ ShopStudyingAPI   — controllers, entry point
 - View cart
 - Remove product from cart
 - Clear cart
+
+**Purchasing**
+- Purchasing goods with a reduced quantity 
 
 ### Getting Started
 
