@@ -1,0 +1,612 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SeikaH\\Desktop\\repos\\ShopStudyingAPIProject\\ShopStudyingAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE86066E-75B9-41A0-8764-204AD8502BD5}|ShopStudyingAPI.csproj|c:\\users\\seikah\\desktop\\repos\\shopstudyingapiproject\\shopstudyingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE86066E-75B9-41A0-8764-204AD8502BD5}|ShopStudyingAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE86066E-75B9-41A0-8764-204AD8502BD5}|ShopStudyingAPI.csproj|c:\\users\\seikah\\desktop\\repos\\shopstudyingapiproject\\shopstudyingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE86066E-75B9-41A0-8764-204AD8502BD5}|ShopStudyingAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB861D3-B5F2-446D-8667-24B12C03656E}|..\\ShopPersistance\\ShopPersistance.csproj|c:\\users\\seikah\\desktop\\repos\\shopstudyingapiproject\\shoppersistance\\shopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4604F890-B104-486B-B3E1-82128A2AC47F}|..\\ShopInfrastructure\\ShopApplication.csproj|c:\\users\\seikah\\desktop\\repos\\shopstudyingapiproject\\shopinfrastructure\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE86066E-75B9-41A0-8764-204AD8502BD5}|ShopStudyingAPI.csproj|c:\\users\\seikah\\desktop\\repos\\shopstudyingapiproject\\shopstudyingapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE86066E-75B9-41A0-8764-204AD8502BD5}|ShopStudyingAPI.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE86066E-75B9-41A0-8764-204AD8502BD5}|ShopStudyingAPI.csproj|c:\\users\\seikah\\desktop\\repos\\shopstudyingapiproject\\shopstudyingapi\\shopstudyingapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CE86066E-75B9-41A0-8764-204AD8502BD5}|ShopStudyingAPI.csproj|solutionrelative:shopstudyingapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE86066E-75B9-41A0-8764-204AD8502BD5}|ShopStudyingAPI.csproj|c:\\users\\seikah\\desktop\\repos\\shopstudyingapiproject\\shopstudyingapi\\shopstudyingapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{CE86066E-75B9-41A0-8764-204AD8502BD5}|ShopStudyingAPI.csproj|solutionrelative:shopstudyingapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE86066E-75B9-41A0-8764-204AD8502BD5}|ShopStudyingAPI.csproj|c:\\users\\seikah\\desktop\\repos\\shopstudyingapiproject\\shopstudyingapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE86066E-75B9-41A0-8764-204AD8502BD5}|ShopStudyingAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SeikaH\\source\\repos\\ShopInfrastructure\\Services\\CartService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SeikaH\\source\\repos\\ShopDomain\\Interfaces\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SeikaH\\source\\repos\\ShopInfrastructure\\DTO\\CartRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SeikaH\\source\\repos\\ShopInfrastructure\\DTO\\CreateSellerRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SeikaH\\source\\repos\\ShopInfrastructure\\SideServices\\PasswordHasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SeikaH\\source\\repos\\ShopInfrastructure\\SideServices\\JwtProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SeikaH\\source\\repos\\ShopDomain\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SeikaH\\source\\repos\\ShopInfrastructure\\Services\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SeikaH\\source\\repos\\ShopDomain\\Interfaces\\ISellerInfoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SeikaH\\source\\repos\\ShopDomain\\Interfaces\\IUserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SeikaH\\source\\repos\\ShopDomain\\Interfaces\\IUserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SeikaH\\source\\repos\\ShopPersistance\\SellerInfoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SeikaH\\source\\repos\\ShopPersistance\\ShopDBContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SeikaH\\source\\repos\\ShopDomain\\Models\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SeikaH\\source\\repos\\ShopInfrastructure\\JwtOptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SeikaH\\source\\repos\\ShopPersistance\\ShopPersistance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SeikaH\\source\\repos\\ShopInfrastructure\\DTO\\CreatePorductRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SeikaH\\source\\repos\\ShopInfrastructure\\DTO\\RegistrationRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SeikaH\\source\\repos\\ShopPersistance\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SeikaH\\source\\repos\\ShopPersistance\\Repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SeikaH\\source\\repos\\ShopDomain\\Interfaces\\IEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SeikaH\\source\\repos\\ShopDomain\\Models\\CartItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SeikaH\\source\\repos\\ShopInfrastructure\\ShopApplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SeikaH\\source\\repos\\ShopStudyingAPIProject\\ShopDomain\\Models\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SeikaH\\source\\repos\\ShopStudyingAPIProject\\ShopDomain\\Interfaces\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SeikaH\\source\\repos\\ShopStudyingAPIProject\\ShopInfrastructure\\Services\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SeikaH\\source\\repos\\ShopStudyingAPIProject\\ShopPersistance\\Repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SeikaH\\source\\repos\\ShopStudyingAPIProject\\ShopInfrastructure\\Services\\CartService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SeikaH\\source\\repos\\ShopStudyingAPIProject\\ShopPersistance\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SeikaH\\source\\repos\\ShopStudyingAPIProject\\ShopPersistance\\ShopDBContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SeikaH\\source\\repos\\ShopStudyingAPIProject\\ShopDomain\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SeikaH\\source\\repos\\ShopStudyingAPIProject\\ShopPersistance\\SellerInfoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SeikaH\\source\\repos\\ShopStudyingAPIProject\\ShopInfrastructure\\DTO\\CartRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShopDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\Desktop\\repos\\ShopStudyingAPIProject\\ShopPersistance\\ShopDBContext.cs",
+              "RelativeDocumentMoniker": "..\\ShopPersistance\\ShopDBContext.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\Desktop\\repos\\ShopStudyingAPIProject\\ShopPersistance\\ShopDBContext.cs",
+              "RelativeToolTip": "..\\ShopPersistance\\ShopDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T12:57:50.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\Desktop\\repos\\ShopStudyingAPIProject\\ShopInfrastructure\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "..\\ShopInfrastructure\\Services\\CartService.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\Desktop\\repos\\ShopStudyingAPIProject\\ShopInfrastructure\\Services\\CartService.cs",
+              "RelativeToolTip": "..\\ShopInfrastructure\\Services\\CartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T12:45:35.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\ShopStudyingAPIProject\\ShopInfrastructure\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\ShopStudyingAPIProject\\ShopInfrastructure\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\ShopStudyingAPIProject\\ShopInfrastructure\\Services\\UserService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\ShopStudyingAPIProject\\ShopInfrastructure\\Services\\UserService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T07:40:10.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\ShopStudyingAPIProject\\ShopPersistance\\Repository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\ShopStudyingAPIProject\\ShopPersistance\\Repository.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\ShopStudyingAPIProject\\ShopPersistance\\Repository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\ShopStudyingAPIProject\\ShopPersistance\\Repository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T05:38:16.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\ShopDomain\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\ShopDomain\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\ShopDomain\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\ShopDomain\\Interfaces\\IRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T14:22:56.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\Desktop\\repos\\ShopStudyingAPIProject\\ShopStudyingAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\Desktop\\repos\\ShopStudyingAPIProject\\ShopStudyingAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T13:08:12.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CartRequest.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\ShopInfrastructure\\DTO\\CartRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\ShopInfrastructure\\DTO\\CartRequest.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\ShopInfrastructure\\DTO\\CartRequest.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\ShopInfrastructure\\DTO\\CartRequest.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T09:05:14.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateSellerRequest.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\ShopInfrastructure\\DTO\\CreateSellerRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\ShopInfrastructure\\DTO\\CreateSellerRequest.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\ShopInfrastructure\\DTO\\CreateSellerRequest.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\ShopInfrastructure\\DTO\\CreateSellerRequest.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T01:27:19.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\ShopInfrastructure\\SideServices\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\ShopInfrastructure\\SideServices\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\ShopInfrastructure\\SideServices\\PasswordHasher.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\ShopInfrastructure\\SideServices\\PasswordHasher.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T10:40:31.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\Desktop\\repos\\ShopStudyingAPIProject\\ShopStudyingAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\Desktop\\repos\\ShopStudyingAPIProject\\ShopStudyingAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T07:42:44.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\Desktop\\repos\\ShopStudyingAPIProject\\ShopStudyingAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\SeikaH\\Desktop\\repos\\ShopStudyingAPIProject\\ShopStudyingAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-09T20:49:45.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\ShopStudyingAPIProject\\ShopDomain\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\ShopStudyingAPIProject\\ShopDomain\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\ShopStudyingAPIProject\\ShopDomain\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\ShopStudyingAPIProject\\ShopDomain\\Interfaces\\IRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T08:56:02.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\ShopStudyingAPIProject\\ShopInfrastructure\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\ShopStudyingAPIProject\\ShopInfrastructure\\Services\\CartService.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\ShopStudyingAPIProject\\ShopInfrastructure\\Services\\CartService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\ShopStudyingAPIProject\\ShopInfrastructure\\Services\\CartService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T00:40:54.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\ShopStudyingAPIProject\\ShopDomain\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\ShopStudyingAPIProject\\ShopDomain\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\ShopStudyingAPIProject\\ShopDomain\\Models\\Product.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\ShopStudyingAPIProject\\ShopDomain\\Models\\Product.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T11:08:42.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\ShopStudyingAPIProject\\ShopPersistance\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\ShopStudyingAPIProject\\ShopPersistance\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\ShopStudyingAPIProject\\ShopPersistance\\UserRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\ShopStudyingAPIProject\\ShopPersistance\\UserRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T05:38:12.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ShopDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\ShopStudyingAPIProject\\ShopPersistance\\ShopDBContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\ShopStudyingAPIProject\\ShopPersistance\\ShopDBContext.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\ShopStudyingAPIProject\\ShopPersistance\\ShopDBContext.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\ShopStudyingAPIProject\\ShopPersistance\\ShopDBContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T05:07:43.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\ShopInfrastructure\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\ShopInfrastructure\\Services\\CartService.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\ShopInfrastructure\\Services\\CartService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\ShopInfrastructure\\Services\\CartService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T09:05:42.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\ShopStudyingAPIProject\\ShopDomain\\Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\ShopStudyingAPIProject\\ShopDomain\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\ShopStudyingAPIProject\\ShopDomain\\Models\\User.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\ShopStudyingAPIProject\\ShopDomain\\Models\\User.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T05:09:18.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SellerInfoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\ShopStudyingAPIProject\\ShopPersistance\\SellerInfoRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\ShopStudyingAPIProject\\ShopPersistance\\SellerInfoRepository.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\ShopStudyingAPIProject\\ShopPersistance\\SellerInfoRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\ShopStudyingAPIProject\\ShopPersistance\\SellerInfoRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T05:38:14.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JwtProvider.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\ShopInfrastructure\\SideServices\\JwtProvider.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\ShopInfrastructure\\SideServices\\JwtProvider.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\ShopInfrastructure\\SideServices\\JwtProvider.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\ShopInfrastructure\\SideServices\\JwtProvider.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T11:40:06.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\ShopDomain\\Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\ShopDomain\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\ShopDomain\\Models\\User.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\ShopDomain\\Models\\User.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T12:47:54.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\ShopInfrastructure\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\ShopInfrastructure\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\ShopInfrastructure\\Services\\UserService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\ShopInfrastructure\\Services\\UserService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T08:12:40.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CartRequest.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\ShopStudyingAPIProject\\ShopInfrastructure\\DTO\\CartRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\ShopStudyingAPIProject\\ShopInfrastructure\\DTO\\CartRequest.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\ShopStudyingAPIProject\\ShopInfrastructure\\DTO\\CartRequest.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\ShopStudyingAPIProject\\ShopInfrastructure\\DTO\\CartRequest.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T00:40:52.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ISellerInfoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\ShopDomain\\Interfaces\\ISellerInfoRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\ShopDomain\\Interfaces\\ISellerInfoRepository.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\ShopDomain\\Interfaces\\ISellerInfoRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\ShopDomain\\Interfaces\\ISellerInfoRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T01:29:45.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\ShopDomain\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\ShopDomain\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\ShopDomain\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\ShopDomain\\Interfaces\\IUserRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T11:16:10.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\ShopDomain\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\ShopDomain\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\ShopDomain\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\ShopDomain\\Interfaces\\IUserService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T07:51:28.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShopStudyingAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\Desktop\\repos\\ShopStudyingAPIProject\\ShopStudyingAPI\\ShopStudyingAPI.csproj",
+              "RelativeDocumentMoniker": "ShopStudyingAPI.csproj",
+              "ToolTip": "C:\\Users\\SeikaH\\Desktop\\repos\\ShopStudyingAPIProject\\ShopStudyingAPI\\ShopStudyingAPI.csproj",
+              "RelativeToolTip": "ShopStudyingAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-09T20:35:39.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SellerInfoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\ShopPersistance\\SellerInfoRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\ShopPersistance\\SellerInfoRepository.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\ShopPersistance\\SellerInfoRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\ShopPersistance\\SellerInfoRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T01:30:12.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ShopDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\ShopPersistance\\ShopDBContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\ShopPersistance\\ShopDBContext.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\ShopPersistance\\ShopDBContext.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\ShopPersistance\\ShopDBContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T12:41:02.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\ShopDomain\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\ShopDomain\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\ShopDomain\\Models\\Product.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\ShopDomain\\Models\\Product.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T12:53:35.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "JwtOptions.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\ShopInfrastructure\\JwtOptions.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\ShopInfrastructure\\JwtOptions.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\ShopInfrastructure\\JwtOptions.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\ShopInfrastructure\\JwtOptions.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T11:58:17.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ShopPersistance.csproj",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\ShopPersistance\\ShopPersistance.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\ShopPersistance\\ShopPersistance.csproj",
+              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\ShopPersistance\\ShopPersistance.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\ShopPersistance\\ShopPersistance.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-09T12:55:33.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CreatePorductRequest.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\ShopInfrastructure\\DTO\\CreatePorductRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\ShopInfrastructure\\DTO\\CreatePorductRequest.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\ShopInfrastructure\\DTO\\CreatePorductRequest.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\ShopInfrastructure\\DTO\\CreatePorductRequest.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T09:26:42.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RegistrationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\ShopInfrastructure\\DTO\\RegistrationRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\ShopInfrastructure\\DTO\\RegistrationRequest.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\ShopInfrastructure\\DTO\\RegistrationRequest.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\ShopInfrastructure\\DTO\\RegistrationRequest.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T07:54:17.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\ShopPersistance\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\ShopPersistance\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\ShopPersistance\\UserRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\ShopPersistance\\UserRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T11:17:17.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\ShopPersistance\\Repository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\ShopPersistance\\Repository.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\ShopPersistance\\Repository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\ShopPersistance\\Repository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T07:14:52.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\ShopDomain\\Interfaces\\IEntity.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\ShopDomain\\Interfaces\\IEntity.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\ShopDomain\\Interfaces\\IEntity.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\ShopDomain\\Interfaces\\IEntity.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T14:36:22.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\ShopDomain\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\ShopDomain\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\ShopDomain\\Models\\CartItem.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\ShopDomain\\Models\\CartItem.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T13:06:21.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShopStudyingAPI.http",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\Desktop\\repos\\ShopStudyingAPIProject\\ShopStudyingAPI\\ShopStudyingAPI.http",
+              "RelativeDocumentMoniker": "ShopStudyingAPI.http",
+              "ToolTip": "C:\\Users\\SeikaH\\Desktop\\repos\\ShopStudyingAPIProject\\ShopStudyingAPI\\ShopStudyingAPI.http",
+              "RelativeToolTip": "ShopStudyingAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-09T20:49:48.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ShopApplication.csproj",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\ShopInfrastructure\\ShopApplication.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\ShopInfrastructure\\ShopApplication.csproj",
+              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\ShopInfrastructure\\ShopApplication.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\ShopInfrastructure\\ShopApplication.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-10T10:43:32.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\Desktop\\repos\\ShopStudyingAPIProject\\ShopStudyingAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\SeikaH\\Desktop\\repos\\ShopStudyingAPIProject\\ShopStudyingAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-09T20:50:19.935Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
